@@ -74,7 +74,7 @@
   - Provide Read and execute access to Owners,groups and others
 
     ```
-    [~]$ chmod 777 test-file
+    [~]$ chmod 555 test-file
     ```
 
   - Read and Write access for Owner and Group, No access for others.
